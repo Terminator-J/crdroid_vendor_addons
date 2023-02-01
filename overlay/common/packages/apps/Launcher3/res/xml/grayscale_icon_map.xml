@@ -364,6 +364,7 @@
     <icon drawable="@drawable/camera" package="com.android.MGC_8_4_400" />
     <icon drawable="@drawable/camera" package="com.android.MGC_8_4_600" />
     <icon drawable="@drawable/camera" package="com.android.MGC_8_5_300" />
+    <icon drawable="@drawable/camera" package="com.android.MGC_8_7_250" />
     <icon drawable="@drawable/camera" package="com.android.arn" />
     <icon drawable="@drawable/camera" package="com.android.camera" />
     <icon drawable="@drawable/camera" package="com.android.camera2" />
